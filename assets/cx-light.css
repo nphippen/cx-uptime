@@ -1,0 +1,26 @@
+:root {
+  --body-background-color: #FFFFFF; /* Light background */
+  --body-text-color: #3B434A; /* On background color for legibility */
+  --card-background-color: #B8E2E6; /* Light variant of primary for cards */
+  --nav-background-color: #00A0AF; /* Primary main for navigation */
+  --nav-border-bottom-color: #66C4CC; /* Primary secondary for nav border */
+  --nav-current-border-bottom-color: #008A96; /* Primary tertiary for current nav item */
+  --card-border-color: #66C4CC; /* Primary secondary for card borders */
+  --down-border-left-color: #992E65; /* Sentiment negative for down indicators */
+  --down-background-color: #DB5555; /* Error light for down backgrounds */
+  --degraded-border-left-color: #FFC000; /* Warning main for degraded indicators */
+  --up-border-left-color: #6BBE0B; /* Sentiment positive for up indicators */
+  --tag-color: #084D7A; /* Primary dark for tag text */
+  --tag-up-background-color: #6BBE0B; /* Sentiment positive for up tag background */
+  --tag-down-background-color: #992E65; /* Sentiment negative for down tag background */
+  --tag-degraded-background-color: #FFC000; /* Warning main for degraded tag background */
+  --change-background-color: #FFC000; /* Warning main for change background */
+  --error-button-border-color: #C03838; /* Error main for error button borders */
+  --error-button-background-color: #DB5555; /* Error light for error button background */
+  --error-button-color: #FFFFFF; /* On primary main for button text */
+  --submit-button-border-color: #C03838; /* Error main for submit button borders */
+  --submit-button-background-color: #DB5555; /* Error light for submit button background */
+  --submit-button-color: #FFFFFF; /* On primary main for submit button text */
+  --graph-opacity: 1;
+  --graph-filter: none;
+}
