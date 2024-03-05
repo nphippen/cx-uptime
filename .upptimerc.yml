@@ -6,11 +6,14 @@ sites:
   - name: CX API
     url: https://connectapi.concentrixcx.com/health/ready
     __dangerous__body_down_if_text_missing: "Healthy"
+    icon: https://cdn-icons-png.flaticon.com/256/900/900782.png
   - name: CX LEGACY AUTHENTICATION
     url: https://identity.concentrixcx.com/health/ready
     __dangerous__body_down_if_text_missing: "Healthy"
+    icon: https://cdn-icons-png.flaticon.com/256/900/900782.png
   - name: CX ENTRYPOINT
     url: https://connect.concentrixcx.com/
+    icon: https://cdn-icons-png.flaticon.com/256/900/900782.png
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
