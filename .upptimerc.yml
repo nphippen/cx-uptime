@@ -11,6 +11,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
  # cname: demo.upptime.js.org
+ themeUrl: https://nphippen.github.io/cx-uptime/cx-light.css
   baseUrl: https://concentrixcx.com
   logoUrl: https://ik.imagekit.io/lkgj3iwxlu/cx/cx-logo_xILVNecTQw.png?tr=w-200
   name: ConcentrixCX
