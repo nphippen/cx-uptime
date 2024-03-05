@@ -9,6 +9,8 @@ sites:
   - name: CX LEGACY AUTHENTICATION
     url: https://identity.concentrixcx.com/health/ready
     __dangerous__body_down_if_text_missing: "Healthy"
+  - name: CX ENTRYPOINT
+    url: https://connect.concentrixcx.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
