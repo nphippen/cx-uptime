@@ -5,7 +5,7 @@ repo: cx-uptime # The name of this repository
 sites:
   - name: CX API
     url: https://connectapi.concentrixcx.com/health/ready
-    __dangerous__body_down_if_text_missing: 'Healthy'
+    __dangerous__body_down_if_text_missing: "Healthy"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -14,10 +14,9 @@ status-website:
   themeUrl: https://nphippen.github.io/cx-uptime/cx-light.css
   baseUrl: /cx-uptime
   logoUrl: https://ik.imagekit.io/lkgj3iwxlu/cx/cx-logo_xILVNecTQw.png
-  # name: ConcentrixCX
+  name: Status Page
   # introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  # introMessage: 
+  # introMessage:
   # navbar:
   #   - title: Status
   #     href: /
-
