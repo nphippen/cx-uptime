@@ -1,11 +1,11 @@
 :root {
   --body-background-color: #ffffff; /* Light background */
   --body-text-color: #3b434a; /* On background color for legibility */
-  --card-background-color: #b8e6de; /* Light variant of primary for cards */
+  --card-background-color: #f7f7f7; /* Light variant of primary for cards */
   --nav-background-color: #00a0af; /* Primary main for navigation */
   --nav-border-bottom-color: #66c4cc; /* Primary secondary for nav border */
   --nav-current-border-bottom-color: #008a96; /* Primary tertiary for current nav item */
-  --card-border-color: #b8fbf0; /* Primary secondary for card borders */
+  --card-border-color: #b7b7b7; /* Primary secondary for card borders */
   --down-border-left-color: #c03838; /* Sentiment negative for down indicators */
   --down-background-color: #db5555; /* Error light for down backgrounds */
   --degraded-border-left-color: #ffc000; /* Warning main for degraded indicators */
