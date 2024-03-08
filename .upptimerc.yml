@@ -29,10 +29,10 @@ status-website:
   #   - title: Status
   #     href: /
   workflowSchedule:
-    graphs: "5 * * * *"
-    responseTime: "10 * * * *"
+    graphs: "*/45 * * * *"
+    responseTime: "*/45 * * * *"
     staticSite: "0 1 * * *"
-    summary: "15 * * * *"
+    summary: "*/45 * * * *"
     updateTemplate: "0 0 * * *"
     updates: "0 3 * * *"
     uptime: "*/5 * * * *"
