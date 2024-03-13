@@ -22,19 +22,19 @@
     "url": "https://identity.concentrixcx.com/health/ready",
     "icon": "https://cdn-icons-png.flaticon.com/256/900/900782.png",
     "slug": "cx-legacy-authentication",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 155,
-    "timeDay": 368,
-    "timeWeek": 148,
-    "timeMonth": 155,
-    "timeYear": 155,
+    "status": "up",
+    "uptime": "99.95%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.95%",
+    "time": 153,
+    "timeDay": 247,
+    "timeWeek": 146,
+    "timeMonth": 153,
+    "timeYear": 153,
     "dailyMinutesDown": {
-      "2024-03-13": 0
+      "2024-03-13": 6
     }
   },
   {
