@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 130,
     "timeDay": 267,
-    "timeWeek": 137,
+    "timeWeek": 131,
     "timeMonth": 130,
     "timeYear": 130,
     "dailyMinutesDown": {}
@@ -22,18 +22,20 @@
     "url": "https://identity.concentrixcx.com/health/ready",
     "icon": "https://cdn-icons-png.flaticon.com/256/900/900782.png",
     "slug": "cx-legacy-authentication",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 155,
     "timeDay": 368,
-    "timeWeek": 158,
+    "timeWeek": 148,
     "timeMonth": 155,
     "timeYear": 155,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-13": 0
+    }
   },
   {
     "name": "CX ENTRYPOINT",
@@ -48,7 +50,7 @@
     "uptimeYear": "100.00%",
     "time": 722,
     "timeDay": 1289,
-    "timeWeek": 604,
+    "timeWeek": 584,
     "timeMonth": 722,
     "timeYear": 722,
     "dailyMinutesDown": {}
