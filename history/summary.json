@@ -22,7 +22,7 @@
     "url": "https://identity.concentrixcx.com/health/ready",
     "icon": "https://cdn-icons-png.flaticon.com/256/900/900782.png",
     "slug": "cx-legacy-authentication",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.54%",
@@ -34,6 +34,7 @@
     "timeMonth": 170,
     "timeYear": 165,
     "dailyMinutesDown": {
+      "2024-04-09": 0,
       "2024-04-04": 46
     }
   },
