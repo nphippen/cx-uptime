@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 134,
-    "timeDay": 29,
-    "timeWeek": 175,
-    "timeMonth": 139,
-    "timeYear": 134,
+    "time": 136,
+    "timeDay": 256,
+    "timeWeek": 173,
+    "timeMonth": 141,
+    "timeYear": 136,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://cdn-icons-png.flaticon.com/256/900/900782.png",
     "slug": "cx-legacy-authentication",
     "status": "up",
-    "uptime": "99.90%",
+    "uptime": "99.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.54%",
     "uptimeMonth": "99.89%",
-    "uptimeYear": "99.90%",
-    "time": 162,
-    "timeDay": 53,
-    "timeWeek": 191,
-    "timeMonth": 167,
-    "timeYear": 162,
+    "uptimeYear": "99.91%",
+    "time": 165,
+    "timeDay": 338,
+    "timeWeek": 192,
+    "timeMonth": 170,
+    "timeYear": 165,
     "dailyMinutesDown": {
       "2024-04-04": 46
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 878,
-    "timeDay": 1290,
-    "timeWeek": 1036,
-    "timeMonth": 895,
-    "timeYear": 878,
+    "time": 886,
+    "timeDay": 1247,
+    "timeWeek": 1053,
+    "timeMonth": 919,
+    "timeYear": 886,
     "dailyMinutesDown": {}
   }
 ]
