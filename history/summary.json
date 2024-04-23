@@ -4,18 +4,20 @@
     "url": "https://connectapi.concentrixcx.com/health/ready",
     "icon": "https://cdn-icons-png.flaticon.com/256/900/900782.png",
     "slug": "cx-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 137,
-    "timeDay": 100,
-    "timeWeek": 70,
-    "timeMonth": 153,
-    "timeYear": 137,
-    "dailyMinutesDown": {}
+    "time": 219,
+    "timeDay": 2963,
+    "timeWeek": 790,
+    "timeMonth": 331,
+    "timeYear": 219,
+    "dailyMinutesDown": {
+      "2024-04-23": 0
+    }
   },
   {
     "name": "CX LEGACY AUTHENTICATION",
