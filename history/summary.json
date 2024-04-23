@@ -4,19 +4,19 @@
     "url": "https://connectapi.concentrixcx.com/health/ready",
     "icon": "https://cdn-icons-png.flaticon.com/256/900/900782.png",
     "slug": "cx-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 219,
-    "timeDay": 2963,
-    "timeWeek": 790,
-    "timeMonth": 331,
-    "timeYear": 219,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.76%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.97%",
+    "time": 220,
+    "timeDay": 2071,
+    "timeWeek": 734,
+    "timeMonth": 329,
+    "timeYear": 220,
     "dailyMinutesDown": {
-      "2024-04-23": 0
+      "2024-04-23": 18
     }
   },
   {
