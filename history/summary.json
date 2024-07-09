@@ -4,18 +4,19 @@
     "url": "https://connectapi.concentrixcx.com/health/ready",
     "icon": "https://cdn-icons-png.flaticon.com/256/900/900782.png",
     "slug": "cx-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 187,
-    "timeDay": 323,
-    "timeWeek": 202,
-    "timeMonth": 170,
-    "timeYear": 187,
+    "time": 186,
+    "timeDay": 209,
+    "timeWeek": 189,
+    "timeMonth": 167,
+    "timeYear": 186,
     "dailyMinutesDown": {
+      "2024-07-09": 0,
       "2024-04-23": 18
     }
   },
@@ -44,17 +45,19 @@
     "url": "https://connect.concentrixcx.com/",
     "icon": "https://cdn-icons-png.flaticon.com/256/900/900782.png",
     "slug": "cx-entrypoint",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 889,
-    "timeDay": 1120,
-    "timeWeek": 967,
-    "timeMonth": 897,
-    "timeYear": 889,
-    "dailyMinutesDown": {}
+    "time": 883,
+    "timeDay": 622,
+    "timeWeek": 862,
+    "timeMonth": 872,
+    "timeYear": 883,
+    "dailyMinutesDown": {
+      "2024-07-09": 0
+    }
   }
 ]
