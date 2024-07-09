@@ -6,9 +6,9 @@
     "slug": "cx-api",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.51%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
     "time": 186,
     "timeDay": 209,
@@ -16,7 +16,7 @@
     "timeMonth": 167,
     "timeYear": 186,
     "dailyMinutesDown": {
-      "2024-07-09": 0,
+      "2024-07-09": 7,
       "2024-04-23": 18
     }
   },
@@ -45,19 +45,19 @@
     "url": "https://connect.concentrixcx.com/",
     "icon": "https://cdn-icons-png.flaticon.com/256/900/900782.png",
     "slug": "cx-entrypoint",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.51%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 883,
-    "timeDay": 622,
-    "timeWeek": 862,
-    "timeMonth": 872,
-    "timeYear": 883,
+    "time": 880,
+    "timeDay": 576,
+    "timeWeek": 820,
+    "timeMonth": 860,
+    "timeYear": 880,
     "dailyMinutesDown": {
-      "2024-07-09": 0
+      "2024-07-09": 7
     }
   }
 ]
