@@ -1,7 +1,7 @@
 url: https://identity.concentrixcx.com/health/ready
-status: up
-code: 200
-responseTime: 135
-lastUpdated: 2024-08-26T23:06:07.406Z
+status: down
+code: 503
+responseTime: 73
+lastUpdated: 2024-08-27T22:22:35.065Z
 startTime: 2024-03-05T18:56:26.068Z
 generator: Upptime <https://github.com/upptime/upptime>
