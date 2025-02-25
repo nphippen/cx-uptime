@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 180,
-    "timeDay": 258,
-    "timeWeek": 158,
-    "timeMonth": 172,
+    "timeDay": 305,
+    "timeWeek": 183,
+    "timeMonth": 173,
     "timeYear": 180,
     "dailyMinutesDown": {
       "2024-04-23": 18
@@ -24,18 +24,19 @@
     "url": "https://identity.concentrixcx.com/health/ready",
     "icon": "https://cdn-icons-png.flaticon.com/256/900/900782.png",
     "slug": "cx-legacy-authentication",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 287,
-    "timeDay": 372,
-    "timeWeek": 205,
-    "timeMonth": 876,
+    "timeDay": 249,
+    "timeWeek": 222,
+    "timeMonth": 852,
     "timeYear": 287,
     "dailyMinutesDown": {
+      "2025-02-25": 0,
       "2024-04-04": 46
     }
   },
@@ -50,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 911,
-    "timeDay": 1254,
-    "timeWeek": 803,
-    "timeMonth": 897,
-    "timeYear": 911,
+    "time": 912,
+    "timeDay": 1271,
+    "timeWeek": 929,
+    "timeMonth": 899,
+    "timeYear": 912,
     "dailyMinutesDown": {}
   }
 ]
