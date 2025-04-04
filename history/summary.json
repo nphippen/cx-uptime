@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 180,
-    "timeDay": 120,
-    "timeWeek": 177,
-    "timeMonth": 177,
-    "timeYear": 187,
+    "time": 179,
+    "timeDay": 109,
+    "timeWeek": 166,
+    "timeMonth": 166,
+    "timeYear": 186,
     "dailyMinutesDown": {
       "2024-04-23": 18
     }
@@ -30,14 +30,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 285,
-    "timeDay": 164,
-    "timeWeek": 212,
-    "timeMonth": 212,
-    "timeYear": 299,
-    "dailyMinutesDown": {
-      "2024-04-04": 46
-    }
+    "time": 284,
+    "timeDay": 133,
+    "timeWeek": 199,
+    "timeMonth": 199,
+    "timeYear": 298,
+    "dailyMinutesDown": {}
   },
   {
     "name": "CX ENTRYPOINT",
@@ -50,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 912,
-    "timeDay": 406,
-    "timeWeek": 878,
-    "timeMonth": 878,
-    "timeYear": 920,
+    "time": 910,
+    "timeDay": 272,
+    "timeWeek": 777,
+    "timeMonth": 777,
+    "timeYear": 917,
     "dailyMinutesDown": {}
   }
 ]
