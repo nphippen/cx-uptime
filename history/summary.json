@@ -11,13 +11,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 178,
-    "timeDay": 84,
-    "timeWeek": 132,
-    "timeMonth": 150,
+    "timeDay": 134,
+    "timeWeek": 135,
+    "timeMonth": 149,
     "timeYear": 186,
-    "dailyMinutesDown": {
-      "2024-04-23": 18
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "CX LEGACY AUTHENTICATION",
@@ -30,10 +28,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 280,
-    "timeDay": 139,
+    "time": 279,
+    "timeDay": 165,
     "timeWeek": 154,
-    "timeMonth": 183,
+    "timeMonth": 182,
     "timeYear": 300,
     "dailyMinutesDown": {}
   },
@@ -49,10 +47,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 909,
-    "timeDay": 448,
-    "timeWeek": 852,
-    "timeMonth": 853,
-    "timeYear": 921,
+    "timeDay": 1176,
+    "timeWeek": 902,
+    "timeMonth": 866,
+    "timeYear": 923,
     "dailyMinutesDown": {}
   }
 ]
