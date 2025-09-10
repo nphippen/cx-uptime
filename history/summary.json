@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 186,
-    "timeDay": 218,
-    "timeWeek": 145,
-    "timeMonth": 178,
+    "timeDay": 213,
+    "timeWeek": 156,
+    "timeMonth": 174,
     "timeYear": 179,
     "dailyMinutesDown": {}
   },
@@ -24,18 +24,16 @@
     "slug": "cx-legacy-authentication",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 267,
-    "timeDay": 220,
-    "timeWeek": 182,
-    "timeMonth": 206,
-    "timeYear": 269,
-    "dailyMinutesDown": {
-      "2025-09-09": 7
-    }
+    "timeDay": 206,
+    "timeWeek": 198,
+    "timeMonth": 203,
+    "timeYear": 270,
+    "dailyMinutesDown": {}
   },
   {
     "name": "CX ENTRYPOINT",
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 915,
-    "timeDay": 738,
-    "timeWeek": 1079,
-    "timeMonth": 1017,
-    "timeYear": 917,
+    "time": 917,
+    "timeDay": 948,
+    "timeWeek": 1003,
+    "timeMonth": 1007,
+    "timeYear": 919,
     "dailyMinutesDown": {}
   }
 ]
