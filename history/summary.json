@@ -5,10 +5,10 @@
     "icon": "https://cdn-icons-png.flaticon.com/256/900/900782.png",
     "slug": "cx-api",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "98.22%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
     "time": 174,
     "timeDay": 198,
@@ -16,7 +16,7 @@
     "timeMonth": 147,
     "timeYear": 176,
     "dailyMinutesDown": {
-      "2025-10-09": 0
+      "2025-10-09": 26
     }
   },
   {
@@ -26,9 +26,9 @@
     "slug": "cx-legacy-authentication",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.22%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
     "time": 268,
     "timeDay": 220,
@@ -36,7 +36,7 @@
     "timeMonth": 182,
     "timeYear": 264,
     "dailyMinutesDown": {
-      "2025-10-09": 0
+      "2025-10-09": 26
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://connect.concentrixcx.com/",
     "icon": "https://cdn-icons-png.flaticon.com/256/900/900782.png",
     "slug": "cx-entrypoint",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.23%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
-    "time": 926,
-    "timeDay": 848,
-    "timeWeek": 917,
-    "timeMonth": 976,
-    "timeYear": 934,
+    "time": 927,
+    "timeDay": 945,
+    "timeWeek": 933,
+    "timeMonth": 978,
+    "timeYear": 935,
     "dailyMinutesDown": {
-      "2025-10-09": 0
+      "2025-10-09": 25
     }
   }
 ]
