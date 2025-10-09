@@ -4,19 +4,19 @@
     "url": "https://connectapi.concentrixcx.com/health/ready",
     "icon": "https://cdn-icons-png.flaticon.com/256/900/900782.png",
     "slug": "cx-api",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "97.83%",
-    "uptimeWeek": "99.69%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "91.62%",
+    "uptimeWeek": "98.80%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "99.98%",
     "time": 174,
-    "timeDay": 198,
-    "timeWeek": 91,
-    "timeMonth": 147,
+    "timeDay": 293,
+    "timeWeek": 128,
+    "timeMonth": 155,
     "timeYear": 176,
     "dailyMinutesDown": {
-      "2025-10-09": 31
+      "2025-10-09": 121
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://identity.concentrixcx.com/health/ready",
     "icon": "https://cdn-icons-png.flaticon.com/256/900/900782.png",
     "slug": "cx-legacy-authentication",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "97.83%",
-    "uptimeWeek": "99.69%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "91.62%",
+    "uptimeWeek": "98.80%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "99.98%",
     "time": 268,
-    "timeDay": 220,
-    "timeWeek": 163,
-    "timeMonth": 182,
-    "timeYear": 264,
+    "timeDay": 273,
+    "timeWeek": 183,
+    "timeMonth": 188,
+    "timeYear": 265,
     "dailyMinutesDown": {
-      "2025-10-09": 31
+      "2025-10-09": 121
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://connect.concentrixcx.com/",
     "icon": "https://cdn-icons-png.flaticon.com/256/900/900782.png",
     "slug": "cx-entrypoint",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "98.22%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "100.00%",
-    "time": 928,
-    "timeDay": 945,
-    "timeWeek": 933,
-    "timeMonth": 978,
-    "timeYear": 935,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "92.01%",
+    "uptimeWeek": "98.86%",
+    "uptimeMonth": "99.74%",
+    "uptimeYear": "99.98%",
+    "time": 927,
+    "timeDay": 1056,
+    "timeWeek": 971,
+    "timeMonth": 987,
+    "timeYear": 936,
     "dailyMinutesDown": {
-      "2025-10-09": 25
+      "2025-10-09": 115
     }
   }
 ]
