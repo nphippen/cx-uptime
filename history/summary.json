@@ -5,15 +5,15 @@
     "icon": "https://cdn-icons-png.flaticon.com/256/900/900782.png",
     "slug": "cx-api",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 178,
-    "timeDay": 79,
-    "timeWeek": 165,
-    "timeMonth": 178,
+    "timeDay": 151,
+    "timeWeek": 176,
+    "timeMonth": 180,
     "timeYear": 179,
     "dailyMinutesDown": {
       "2025-10-09": 121
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 250,
-    "timeDay": 109,
-    "timeWeek": 196,
-    "timeMonth": 216,
-    "timeYear": 266,
+    "timeDay": 242,
+    "timeWeek": 209,
+    "timeMonth": 219,
+    "timeYear": 267,
     "dailyMinutesDown": {
       "2025-10-09": 121
     }
@@ -51,10 +51,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 924,
-    "timeDay": 1395,
-    "timeWeek": 821,
-    "timeMonth": 918,
-    "timeYear": 929,
+    "timeDay": 507,
+    "timeWeek": 832,
+    "timeMonth": 886,
+    "timeYear": 928,
     "dailyMinutesDown": {
       "2025-10-09": 115
     }
